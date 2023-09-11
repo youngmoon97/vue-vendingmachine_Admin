@@ -1,0 +1,13 @@
+
+.content-container {
+  display: flex;
+  justify-content: center; /* Horizontally center content */
+  align-items: center; /* Vertically center content */
+  height: 40vh; /* Optionally, set a minimum height to center vertically */
+  flex-direction: column; /* To stack the content vertically */
+}
+
+h1 {
+  text-align: center; /* Center text within the h1 element */
+  font-size: 24px; /* Adjust the font size as needed */
+}
